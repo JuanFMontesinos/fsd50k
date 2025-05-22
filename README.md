@@ -1,8 +1,8 @@
 # What's this repo for  
-Surf throughout the mess of metadata files without spending hours of your life.  
+Surf throughout the mess of metadata files without spending hours of your life. It aggregates together metadata, additional metadata, track properties (duration, sampling rate, number of frames, number of channels) and splits the comma-separated labels into proper lists.    
 
 1-click download of the [FSD50K dataset](https://annotator.freesound.org/fsd/release/FSD50K/).  
-Easy function to create a dataframe with all the metadata of the dataset.
+Easy function to create a dataframe with all the metadata of the dataset. 
 
 ## How to use  
 1. Download the dataset by `bash fsd50k.sh path_to_destination` (linux only)
